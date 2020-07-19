@@ -1,7 +1,7 @@
 # Web Scraping with Jsoup
 
 ### Background:
-* Web scraping is used for:
+Web scraping is used for:
 * contact scraping 
 * web mining and data mining
 * Online price change monitoring and price comparison
