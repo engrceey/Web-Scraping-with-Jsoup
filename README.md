@@ -1,10 +1,14 @@
 # Web Scraping with Jsoup
 
 ### Background:
-Web scraping is used for contact scraping, and as a component of applications used for web indexing,
-web mining and data mining, online price change monitoring and price comparison,
-product review scraping (to watch the competition), gathering real estate listings, weather data monitoring,
-website change detection, research, tracking online presence and reputation, web mashup and, web data integration.
+* Web scraping is used for:
+* contact scraping 
+* web mining and data mining
+* Online price change monitoring and price comparison
+* Product review scraping (to watch the competition), 
+* Gathering real estate listings
+* weather data monitoring,
+* website change detection, research, tracking online presence and reputation, web mashup and, web data integration.
 sourse: https://en.wikipedia.org/wiki/Web_scraping
 
 ### Jsoup
